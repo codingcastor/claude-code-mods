@@ -1,0 +1,8 @@
+{
+  "name": "music-player",
+  "version": "0.1.0",
+  "description": "Lecteur « now playing » pour Claude Code (macOS) : titre en cours, contrôles et visualiseur Bars façon Windows Media Player",
+  "author": { "name": "codingcastor" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

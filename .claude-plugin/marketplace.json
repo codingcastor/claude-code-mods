@@ -1,0 +1,12 @@
+{
+  "name": "codingcastor",
+  "owner": { "name": "codingcastor" },
+  "metadata": { "description": "Mods pour Claude Code par codingcastor" },
+  "plugins": [
+    {
+      "name": "music-player",
+      "source": "./plugins/music-player",
+      "description": "Lecteur « now playing » pour Claude Code (macOS) : titre en cours, contrôles et visualiseur Bars façon Windows Media Player"
+    }
+  ]
+}
